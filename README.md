@@ -2,7 +2,9 @@
 
 ### Little dev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuwuji&label=Profile views&color=0e75b6&style=flat" alt="kuwuji" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kuwuji&label=Profile%20views&color=0e75b6&style=flat" alt="kuwuji profile views" />
+</p>
 
 - 🌱 I'm currently learning **C++ and TypeScript**
 

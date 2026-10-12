@@ -1,32 +1,108 @@
-# Hi 👋, I'm Kuwuji
+<div align="center">
 
-### Little dev
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Kuwuji&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=little%20dev%20%E2%80%A2%20C%2B%2B%20%26%20TypeScript&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kuwuji&label=Profile%20views&color=0e75b6&style=flat" alt="kuwuji profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kuwuji;Learning+C%2B%2B+%26+TypeScript;Building+small+tools+for+fun;Open+to+collab+%E2%80%94+say+hi+!+%3A3" alt="typing" />
 
-- 🌱 I'm currently learning **C++ and TypeScript**
+<br/>
 
-- 👯 I'm looking to collaborate on **open source project**
+<img src="https://img.shields.io/badge/Discord-cyclooctatetraene-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+<img src="https://img.shields.io/github/followers/kuwuji?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=kuwuji&label=Profile%20views&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="profile views" />
 
-- 🤝 I'm looking for help with **learning new thing**
+</div>
 
-- 📫 How to reach me **Discord : cyclooctatetraene**
+<br/>
 
-- ⚡ Fun fact **i like :3**
+## 👾 About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kuwuji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kuwuji" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| 🌱 **Learning** | C++ and TypeScript |
+| 👯 **Looking for** | open source projects to collaborate on |
+| 🤝 **Also looking for** | help with learning new things |
+| 📫 **Reach me** | Discord: `cyclooctatetraene` |
+| ⚡ **Fun fact** | i like :3 |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuwuji&show_icons=true&locale=en&layout=compact" alt="kuwuji" /></p>
+## 🛠️ Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuwuji&show_icons=true&locale=en" alt="kuwuji" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuwuji&" alt="kuwuji" /></p>
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css&theme=dark" alt="languages" />
 
+**Runtime & tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,bun,git,vscode,mysql,photoshop&theme=dark" alt="tools" />
+
+**Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,discord&theme=dark" alt="environment" />
+
+<br/>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kuwuji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuwuji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com/?user=kuwuji&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuwuji&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+<br/>
+
+## 📌 Projects
+
+<div align="center">
+
+<a href="https://github.com/kuwuji/uwu-raku">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuwuji&repo=uwu-raku&theme=tokyonight&hide_border=true" alt="uwu-raku" />
+</a>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kuwuji&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+<br/>
+
+<details>
+<summary>✨ A few more things about me</summary>
+
+<br/>
+
+- 🐧 Linux user, I like tinkering with my setup
+- 🎮 I enjoy small projects made just for fun
+- 🌐 I code in a mix of French and English
+- 💬 Don't hesitate to DM me, I don't bite :3
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer" alt="footer" />
+
+</div>

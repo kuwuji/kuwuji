@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuwuji&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img src="https://ghchart.rshah.org/7aa2f7/kuwuji" alt="contribution chart" />
 
 </div>
 
@@ -75,16 +75,6 @@
 <a href="https://github.com/kuwuji/Discord-Backup-Tool">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuwuji&repo=Discord-Backup-Tool&theme=tokyonight&hide_border=true" alt="Discord-Backup-Tool" />
 </a>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kuwuji&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 

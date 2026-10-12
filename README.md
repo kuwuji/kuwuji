@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Kuwuji&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=little%20dev%20%E2%80%A2%20C%2B%2B%20%26%20TypeScript&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Kuwuji&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=little%20dev%20-%20C%2B%2B%20and%20TypeScript&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kuwuji;Learning+C%2B%2B+%26+TypeScript;Building+small+tools+for+fun;Open+to+collab+%E2%80%94+say+hi+!+%3A3" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+I+am+Kuwuji;Learning+C%2B%2B+and+TypeScript;Building+small+tools+for+fun;Open+to+collab%2C+say+hi+%3A3" alt="typing" />
 
 <br/>
 
@@ -69,8 +69,11 @@
 
 <div align="center">
 
-<a href="https://github.com/kuwuji/uwu-raku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuwuji&repo=uwu-raku&theme=tokyonight&hide_border=true" alt="uwu-raku" />
+<a href="https://github.com/kuwuji/Discord-Token-Tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuwuji&repo=Discord-Token-Tool&theme=tokyonight&hide_border=true" alt="Discord-Token-Tool" />
+</a>
+<a href="https://github.com/kuwuji/Discord-Backup-Tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuwuji&repo=Discord-Backup-Tool&theme=tokyonight&hide_border=true" alt="Discord-Backup-Tool" />
 </a>
 
 </div>
